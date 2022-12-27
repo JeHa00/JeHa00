@@ -2,14 +2,14 @@
 <h3 align="center">A engineer who want to make a good effect to the world with SW skills </h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeha00" alt="jeha00" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeha00&color=lightgray" alt="jeha00" /> </p>
 
 * 🌱 I’m currently learning DRF, Django, Python, algorithm and many things to be a engineer with strong core.
 * 👯 I’m looking to collaborate on django(rest-framework) and FastAPI
 * 😄 I like continuously organizing and sharing a what I learned.
 * 📫 How to reach me **rudtls0611@gmail.com**
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeha00&theme=gotham&show_icons=true" alt="jeha00" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeha00&theme=dark&show_icons=true" alt="jeha00" /></p>
 
 <p align="center">
 <a href="www.linkedin.com/in/jeha00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jeha00" height="30" width="30"/></a>
