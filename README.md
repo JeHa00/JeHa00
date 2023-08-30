@@ -4,9 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeha00&color=lightgray" alt="jeha00" /> </p>
 
-* 🌱 I’m currently learning DRF, Django, Python, algorithm and many things to be a engineer with strong core.
-* 👯 I’m looking to collaborate on django(rest-framework) and FastAPI
+💬 Ask me about ...
+* 🌱 I’m currently learning web, basic cs subjects and many things to be a engineer with strong core.
+* 😄 I like to write readable code.
 * 😄 I like continuously organizing and sharing a what I learned.
+* 👯 I’m looking to collaborate on django(rest-framework) and FastAPI
+
 * 📫 How to reach me **rudtls0611@gmail.com**
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeha00&theme=dark&show_icons=true" alt="jeha00" /></p>
